@@ -62,7 +62,7 @@ This repository contains Python code for implementing Alternating Least Squares 
 
 ## Contributing and License
 
-Feel free to contribute by opening issues or submitting pull requests. This project is licensed under the [MIT License]([LICENSE](https://esapubs.org/archive/ecol/E090/184/metadata.htm)).
+Feel free to contribute by opening issues or submitting pull requests. This project is licensed under the [MIT License](https://esapubs.org/archive/ecol/E090/184/metadata.htm).
 
 ## Authors
 
