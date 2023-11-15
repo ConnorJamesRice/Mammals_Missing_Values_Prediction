@@ -255,9 +255,6 @@ class ALS_Matrix_Completion:
 
 
 def main():
-    # Example usage
-    # primate_data, primate_info = get_primate_data('/Users/connorrice/Downloads/PanTHERIA_WR05_mammals.txt')
-
     data = data_extract('PanTHERIA_WR05_mammals.txt')
 
     order_names = data.order_names()
