@@ -66,4 +66,4 @@ Feel free to contribute by opening issues or submitting pull requests.
 
 ## Authors
 
-- [Your Name](https://github.com/ConnorJamesRice)
+- [Connor Rice](https://github.com/ConnorJamesRice)
